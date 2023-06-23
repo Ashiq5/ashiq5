@@ -3,7 +3,7 @@ I'm Mohammad Ishtiaq Ashiq Khan!
 Please find my homepage here: https://ashiq5.github.io
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ashiq5&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ashiq5&show_icons=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq5&layout=compact&card_width=320" />
