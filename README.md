@@ -2,7 +2,7 @@
 I'm Mohammad Ishtiaq Ashiq Khan!
 Please find my homepage here: https://ashiq5.github.io
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq5)](https://github.com/ashiq5/github-readme-stats)
 
 
 <!--
