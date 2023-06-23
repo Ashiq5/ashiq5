@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Mohammad Ishtiaq Ashiq Khan!
+Please find my homepage here: https://ashiq5.github.io
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Ashiq5/ashiq5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
